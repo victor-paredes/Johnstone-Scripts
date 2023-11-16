@@ -3,7 +3,7 @@
 A repository for helper scripts. Descriptions below for each script. More scripts are on the way as I notice recurring issues, process enhancements, and time-saving opportunities.
 <br><br>
 
-## 🗺️ How to use
+## 📍 How to use
 Place these scripts into your InDesign scripts folder and access them in your Scripts panel in the program.
 <br><br><br><br>
 
