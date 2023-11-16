@@ -9,7 +9,7 @@ Place these scripts into your InDesign scripts folder and access them in your Sc
 
 <hr>
 
-## InDesign Scripts
+## INDESIGN SCRIPTS
 <br>
 
 ## 📁 Layout
