@@ -8,7 +8,6 @@ Place these scripts into your InDesign scripts folder and access them in your Sc
 <br><br>
 
 <hr>
-
 ## InDesign Scripts
 <br>
 
