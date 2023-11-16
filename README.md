@@ -12,7 +12,7 @@ Place these scripts into your InDesign scripts folder and access them in your Sc
 ## • Table Adjustment •
 Video explanation: https://www.youtube.com/watch?v=F4s6oFVChvk
 
-### 📄 JS_TABLE_COL_width_incl_row1.jsx
+### ⚡️ JS_TABLE_COL_width_incl_row1.jsx
 Removes whitespace in column after content including header row.
 
 ### 📄 JS_TABLE_COL_width_sans_row1.jsx
