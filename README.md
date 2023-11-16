@@ -7,7 +7,7 @@ Place these scripts into your InDesign scripts folder and access them in your Sc
 
 
 # 🚀 InDesign Scripts
-
+<br>
 
 ## 📁 Layout
 Video coming soon.
