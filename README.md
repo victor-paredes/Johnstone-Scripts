@@ -30,7 +30,7 @@ In regards to the template shift issue, if the overall positioning of the page t
 <br>
 
 ## 📁 Tables
-Video demo: [https://www.youtube.com/watch?v=F4s6oFVChvk](https://youtu.be/ZUzkURfGKg4)
+Video demo: [https://youtu.be/ZUzkURfGKg4](https://youtu.be/ZUzkURfGKg4)
 
 ### ⚡️ fit_column_to_table_size.jsx
 Extends or compresses column based on the width of the table type. This script will prompt you to select between several options, each corresponding to a table width. 
