@@ -21,8 +21,8 @@ This fixes the template shift issue. This script will prompt you for the spread 
 In regards to the template shift issue, if the overall positioning of the page textframe (catalog_textframe_L or catalog_textframe_R), then run this script, which moves either or both textframes into their proper places. Essentially, this script pushes each textframe closer to the spine.
 
 <br>
-## 📁 Tables
 
+## 📁 Tables
 Video explanation: https://www.youtube.com/watch?v=F4s6oFVChvk
 
 ### ⚡️ fit_column_to_table_size.jsx
