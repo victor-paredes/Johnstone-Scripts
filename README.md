@@ -1,6 +1,6 @@
 <br><br><br>
 
-![alt text](https://victorpared.es/wp-content/uploads/2023/11/johnstonesupplycms_xl.png)
+![alt text](https://victorpared.es/wp-content/uploads/2023/11/github_bg.png)
 # JS MKTG Scripts Repository
 
 A repository for helper scripts. Descriptions below for each script. More scripts are on the way as I notice recurring issues, process enhancements, and time-saving opportunities.
