@@ -19,7 +19,7 @@ Download the "Johnstone Scripts" folder into InDesign's local script directory a
 <br>
 
 ## 📁 Layout
-Video demo: \\JSFS2019A\advertising$\_Catalog\Marketing Team Scripts\Demo Videos\Layout Fix Demonstration.mp4
+Video demo: \\\JSFS2019A\advertising$\_Catalog\Marketing Team Scripts\Demo Videos\Layout Fix Demonstration.mp4
 
 ### ⚡️ textframe_fix_object_style.jsx
 This fixes the template shift issue. This script will prompt you for the spread side you'd like to affect, or you may affect both. If the overall positioning of the page textframe (catalog_textframe_L or catalog_textframe_R), then run the accompanying script JS_textframe_position_fix.jsx (see below).
@@ -30,7 +30,7 @@ In regards to the template shift issue, if the overall positioning of the page t
 <br>
 
 ## 📁 Tables
-Video demo: \\JSFS2019A\advertising$\_Catalog\Marketing Team Scripts\Demo Videos\Tables Scripts Demonstration.mp4
+Video demo: \\\JSFS2019A\advertising$\_Catalog\Marketing Team Scripts\Demo Videos\Tables Scripts Demonstration.mp4
 
 ### ⚡️ fit_column_to_table_size.jsx
 Extends or compresses column based on the width of the table type. This script will prompt you to select between several options, each corresponding to a table width. 
