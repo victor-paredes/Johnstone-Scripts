@@ -36,7 +36,7 @@ Video explanation: https://www.youtube.com/watch?v=F4s6oFVChvk
 Extends or compress column based on the width of the table type. This script will prompt you to select between several options, each corresponding to a table width. 
 
 ### ⚡️ adjust_current_column_width.jsx
-Adjusts current column's width to remove excess space or add necessary space to allow the content to fit on one line. Note: Does not yet work on the first column or columns whose content is aligned right.
+Adjusts current column's width to remove excess space or add necessary space to allow the content to fit on one line. Note: Does not yet work on the first or last column.
 
 
 <br><br><br><br>
