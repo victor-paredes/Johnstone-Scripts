@@ -5,7 +5,7 @@ A repository for helper scripts. Descriptions below for each script. More script
 ## How to use
 Place these scripts into your InDesign scripts folder and access them in your Scripts panel in the program.
 
-
+<br>
 # 🚀 InDesign Scripts
 <br>
 
@@ -18,7 +18,7 @@ This fixes the template shift issue. This script will prompt you for the spread 
 ### ⚡️ textframe_nudge_to_spine.jsx
 In regards to the template shift issue, if the overall positioning of the page textframe (catalog_textframe_L or catalog_textframe_R), then run this script, which moves either or both textframes into their proper places. Essentially, this script pushes each textframe closer to the spine.
 
-
+<br>
 ## 📁 Tables
 Video explanation: https://www.youtube.com/watch?v=F4s6oFVChvk
 
