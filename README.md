@@ -1,4 +1,3 @@
-<br>
 
 ![alt text](https://victorpared.es/wp-content/uploads/2023/11/github_bg_final.png)
 # JS MKTG Scripts
