@@ -19,7 +19,7 @@ Extends or compress column based on the width of the table type. This script wil
 Removes whitespace in column after content. Adds a small amount of space aftercontent for legibility.
 
 
-## 📁 Fixing Textframe Alignment Issues
+## 📁 LAYOUT
 Video coming soon.
 
 ### ⚡️ textframe_fix_object_style.jsx
