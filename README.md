@@ -19,7 +19,7 @@ Download the "Johnstone Scripts" folder into InDesign's local script directory a
 <br>
 
 ## 📁 Layout
-Video coming soon.
+Video demo: [https://youtu.be/ERcVaE4kpYY](https://youtu.be/ERcVaE4kpYY)
 
 ### ⚡️ textframe_fix_object_style.jsx
 This fixes the template shift issue. This script will prompt you for the spread side you'd like to affect, or you may affect both. If the overall positioning of the page textframe (catalog_textframe_L or catalog_textframe_R), then run the accompanying script JS_textframe_position_fix.jsx (see below).
