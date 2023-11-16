@@ -9,7 +9,7 @@ Place these scripts into your InDesign scripts folder and access them in your Sc
 # 🚀 InDesign Scripts
 
 
-## Table Adjustment
+## • Table Adjustment
 Video explanation: https://www.youtube.com/watch?v=F4s6oFVChvk
 
 ### 📄 JS_TABLE_COL_width_incl_row1.jsx
@@ -22,7 +22,7 @@ Removes whitespace in column after content excluding header row.
 Extends or compress column based on the width of the table type. This script will prompt you to select between several options, each corresponding to a table width. 
 
 
-## Fixing Textframe Alignment Issues
+## • Fixing Textframe Alignment Issues
 Video coming soon.
 
 ### 📄 JS_textframe_style_fix.jsx
