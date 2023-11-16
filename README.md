@@ -1,7 +1,7 @@
 <br><br><br>
 
 ![alt text](https://victorpared.es/wp-content/uploads/2023/11/github_bg_blue_line_xs.png)
-# JS MKTG Scripts Repository
+# JS MKTG Scripts
 
 A repository for helper scripts. Descriptions below for each script. More scripts are on the way as I notice recurring issues, process enhancements, and time-saving opportunities.
 <br><br><br><br>
