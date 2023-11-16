@@ -10,7 +10,7 @@ A repository for helper scripts. Descriptions below for each script. More script
 <hr>
 
 ## 📍 How to use
-Place these scripts into InDesign's scripts folder and access them via the Scripts panel (Window > Utilities > Scripts) within the application.
+Download the "Johnstone Scripts" folder into InDesign's scripts folder and access them via the Scripts panel (Window > Utilities > Scripts) within the application.
 <br><br><br><br>
 
 <hr>
