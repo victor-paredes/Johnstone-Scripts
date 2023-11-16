@@ -5,7 +5,7 @@ A repository for helper scripts. Descriptions below for each script. More script
 
 ## How to use
 Place these scripts into your InDesign scripts folder and access them in your Scripts panel in the program.
-<br><br>
+<br><br><br><br>
 
 <hr>
 
